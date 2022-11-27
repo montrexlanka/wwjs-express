@@ -1,0 +1,65 @@
+2022/11/05-23:12:19.565 31a4 Reusing MANIFEST c:\Users\BUDDHI\Desktop\venom-express-js\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/05-23:12:19.568 31a4 Recovering log #341
+2022/11/05-23:12:19.582 31a4 Reusing old log c:\Users\BUDDHI\Desktop\venom-express-js\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000341.log 
+2022/11/05-23:12:47.152 41e8 Level-0 table #352: started
+2022/11/05-23:12:47.176 41e8 Level-0 table #352: 1239560 bytes OK
+2022/11/05-23:12:47.177 41e8 Delete type=0 #341
+2022/11/05-23:12:47.179 41e8 Compacting 1@1 + 7@2 files
+2022/11/05-23:12:47.275 41e8 Generated table #353@1: 29347 keys, 2252802 bytes
+2022/11/05-23:12:47.361 41e8 Generated table #354@1: 24594 keys, 2264101 bytes
+2022/11/05-23:12:47.428 41e8 Generated table #355@1: 23973 keys, 2264283 bytes
+2022/11/05-23:12:47.549 41e8 Generated table #356@1: 63638 keys, 2265494 bytes
+2022/11/05-23:12:47.650 41e8 Generated table #357@1: 45233 keys, 2293312 bytes
+2022/11/05-23:12:47.730 41e8 Generated table #358@1: 25876 keys, 2201356 bytes
+2022/11/05-23:12:47.761 41e8 Generated table #359@1: 34992 keys, 785006 bytes
+2022/11/05-23:12:47.761 41e8 Compacted 1@1 + 7@2 files => 14326354 bytes
+2022/11/05-23:12:47.761 41e8 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/11/05-23:12:47.762 41e8 Delete type=2 #343
+2022/11/05-23:12:47.762 41e8 Delete type=2 #344
+2022/11/05-23:12:47.762 41e8 Delete type=2 #345
+2022/11/05-23:12:47.762 41e8 Delete type=2 #346
+2022/11/05-23:12:47.762 41e8 Delete type=2 #347
+2022/11/05-23:12:47.762 41e8 Delete type=2 #348
+2022/11/05-23:12:47.762 41e8 Delete type=2 #349
+2022/11/05-23:12:47.762 41e8 Delete type=2 #352
+2022/11/06-05:38:52.601 2c44 Level-0 table #361: started
+2022/11/06-05:38:52.649 2c44 Level-0 table #361: 1152446 bytes OK
+2022/11/06-05:38:52.652 2c44 Delete type=0 #351
+2022/11/06-05:38:52.863 22b8 Compacting 1@1 + 7@2 files
+2022/11/06-05:38:53.104 22b8 Generated table #362@1: 29611 keys, 2253913 bytes
+2022/11/06-05:38:53.239 22b8 Generated table #363@1: 24445 keys, 2266821 bytes
+2022/11/06-05:38:53.362 22b8 Generated table #364@1: 24091 keys, 2264498 bytes
+2022/11/06-05:38:53.469 22b8 Generated table #365@1: 60966 keys, 2264792 bytes
+2022/11/06-05:38:53.598 22b8 Generated table #366@1: 50136 keys, 2299348 bytes
+2022/11/06-05:38:53.691 22b8 Generated table #367@1: 21310 keys, 2197354 bytes
+2022/11/06-05:38:53.743 22b8 Generated table #368@1: 39644 keys, 889204 bytes
+2022/11/06-05:38:53.743 22b8 Compacted 1@1 + 7@2 files => 14435930 bytes
+2022/11/06-05:38:53.744 22b8 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/11/06-18:10:14.589 3ec8 Level-0 table #370: started
+2022/11/06-18:10:14.612 3ec8 Level-0 table #370: 1160300 bytes OK
+2022/11/06-18:10:14.614 3ec8 Delete type=2 #353
+2022/11/06-18:10:14.614 3ec8 Delete type=2 #354
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #355
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #356
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #357
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #358
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #359
+2022/11/06-18:10:14.615 3ec8 Delete type=0 #360
+2022/11/06-18:10:14.615 3ec8 Delete type=2 #361
+2022/11/06-18:10:14.902 11fc Compacting 1@1 + 6@2 files
+2022/11/06-18:10:15.003 11fc Generated table #371@1: 31256 keys, 2251781 bytes
+2022/11/06-18:10:15.077 11fc Generated table #372@1: 24483 keys, 2259183 bytes
+2022/11/06-18:10:15.145 11fc Generated table #373@1: 24073 keys, 2270011 bytes
+2022/11/06-18:10:15.216 11fc Generated table #374@1: 51663 keys, 2265539 bytes
+2022/11/06-18:10:15.294 11fc Generated table #375@1: 63338 keys, 2314311 bytes
+2022/11/06-18:10:15.356 11fc Generated table #376@1: 18414 keys, 2196827 bytes
+2022/11/06-18:10:15.362 11fc Generated table #377@1: 3183 keys, 275364 bytes
+2022/11/06-18:10:15.362 11fc Compacted 1@1 + 6@2 files => 13833016 bytes
+2022/11/06-18:10:15.362 11fc compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/11/06-18:10:15.363 11fc Delete type=2 #362
+2022/11/06-18:10:15.363 11fc Delete type=2 #363
+2022/11/06-18:10:15.363 11fc Delete type=2 #364
+2022/11/06-18:10:15.363 11fc Delete type=2 #365
+2022/11/06-18:10:15.363 11fc Delete type=2 #366
+2022/11/06-18:10:15.363 11fc Delete type=2 #367
+2022/11/06-18:10:15.363 11fc Delete type=2 #370

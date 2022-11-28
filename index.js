@@ -11,7 +11,10 @@ const number = "94775614145@c.us";
 
 //create a new client
 const client = new Client({
-  authStrategy: new LocalAuth()
+  authStrategy: new LocalAuth(),
+  puppeteer: {
+		args: ['--no-sandbox'],
+	}
 });
 
 

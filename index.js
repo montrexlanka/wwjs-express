@@ -21,7 +21,7 @@ const client = new Client({
 //when the client is ready, start the express server
 client.on('ready', async () => {
   myNumber_serialized = client.info.wid._serialized;
-  console.log(myNumber_serialized);
+  
   app.use(bodyParser.urlencoded({ extended: false }))
   app.use(bodyParser.json())
 
@@ -144,7 +144,7 @@ async function getGroups(client, req, res) {
         //if is_admin
         try {
           if (chat.owner._serialized == myNumber_serialized) {
-            console.log(chat);
+            
             try {
               const name = chat.name;
               const id = chat.id._serialized;

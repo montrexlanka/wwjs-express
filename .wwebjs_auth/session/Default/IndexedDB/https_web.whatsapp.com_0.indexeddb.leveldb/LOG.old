@@ -1,70 +1,7 @@
-2022/11/06-18:33:32.611 13cc Reusing MANIFEST c:\Users\BUDDHI\Desktop\venom-express-js\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/06-18:33:32.612 13cc Recovering log #369
-2022/11/06-18:33:32.647 13cc Reusing old log c:\Users\BUDDHI\Desktop\venom-express-js\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000369.log 
-2022/11/06-18:33:44.004 cb8 Level-0 table #380: started
-2022/11/06-18:33:44.051 cb8 Level-0 table #380: 1099931 bytes OK
-2022/11/06-18:33:44.053 cb8 Delete type=0 #369
-2022/11/06-18:33:44.058 cb8 Compacting 1@1 + 8@2 files
-2022/11/06-18:33:44.170 cb8 Generated table #381@1: 30437 keys, 2251903 bytes
-2022/11/06-18:33:44.246 cb8 Generated table #382@1: 24488 keys, 2257912 bytes
-2022/11/06-18:33:44.314 cb8 Generated table #383@1: 24060 keys, 2270426 bytes
-2022/11/06-18:33:44.395 cb8 Generated table #384@1: 51026 keys, 2264623 bytes
-2022/11/06-18:33:44.481 cb8 Generated table #385@1: 64990 keys, 2315079 bytes
-2022/11/06-18:33:44.543 cb8 Generated table #386@1: 18459 keys, 2198089 bytes
-2022/11/06-18:33:44.587 cb8 Generated table #387@1: 43273 keys, 1248139 bytes
-2022/11/06-18:33:44.587 cb8 Compacted 1@1 + 8@2 files => 14806171 bytes
-2022/11/06-18:33:44.588 cb8 compacted to: files[ 0 0 7 0 0 0 0 ]
-2022/11/06-18:33:44.589 cb8 Delete type=2 #368
-2022/11/06-18:33:44.589 cb8 Delete type=2 #371
-2022/11/06-18:33:44.589 cb8 Delete type=2 #372
-2022/11/06-18:33:44.589 cb8 Delete type=2 #373
-2022/11/06-18:33:44.589 cb8 Delete type=2 #374
-2022/11/06-18:33:44.589 cb8 Delete type=2 #375
-2022/11/06-18:33:44.589 cb8 Delete type=2 #376
-2022/11/06-18:33:44.589 cb8 Delete type=2 #377
-2022/11/06-18:33:44.589 cb8 Delete type=2 #380
-2022/11/06-19:05:12.662 1e74 Level-0 table #389: started
-2022/11/06-19:05:13.747 1e74 Level-0 table #389: 1355230 bytes OK
-2022/11/06-19:05:14.238 1e74 Delete type=0 #379
-2022/11/06-19:05:15.248 2920 Compacting 1@1 + 7@2 files
-2022/11/06-19:05:16.380 2920 Generated table #390@1: 29894 keys, 2254847 bytes
-2022/11/06-19:05:17.480 2920 Generated table #391@1: 24395 keys, 2263419 bytes
-2022/11/06-19:05:18.287 2920 Generated table #392@1: 24417 keys, 2267215 bytes
-2022/11/06-19:05:18.362 2920 Generated table #393@1: 47928 keys, 2265976 bytes
-2022/11/06-19:05:18.440 2920 Generated table #394@1: 70734 keys, 2323959 bytes
-2022/11/06-19:05:18.492 2920 Generated table #395@1: 16499 keys, 2192184 bytes
-2022/11/06-19:05:18.543 2920 Generated table #396@1: 45799 keys, 1401832 bytes
-2022/11/06-19:05:18.543 2920 Compacted 1@1 + 7@2 files => 14969432 bytes
-2022/11/06-19:05:18.544 2920 compacted to: files[ 0 0 7 0 0 0 0 ]
-2022/11/06-19:05:18.544 2920 Delete type=2 #381
-2022/11/06-19:05:18.544 2920 Delete type=2 #382
-2022/11/06-19:05:18.544 2920 Delete type=2 #383
-2022/11/06-19:05:18.544 2920 Delete type=2 #384
-2022/11/06-19:05:18.545 2920 Delete type=2 #385
-2022/11/06-19:05:18.545 2920 Delete type=2 #386
-2022/11/06-19:05:18.545 2920 Delete type=2 #387
-2022/11/06-19:05:18.545 2920 Delete type=2 #389
-2022/11/06-20:09:22.637 2fb4 Level-0 table #398: started
-2022/11/06-20:09:22.668 2fb4 Level-0 table #398: 1048033 bytes OK
-2022/11/06-20:09:22.672 2fb4 Delete type=0 #388
-2022/11/06-20:23:08.109 2fb4 Compacting 1@1 + 7@2 files
-2022/11/06-20:23:08.173 2fb4 Generated table #399@1: 30005 keys, 2253598 bytes
-2022/11/06-20:23:08.245 2fb4 Generated table #400@1: 24502 keys, 2266955 bytes
-2022/11/06-20:23:08.303 2fb4 Generated table #401@1: 24428 keys, 2267079 bytes
-2022/11/06-20:23:08.365 2fb4 Generated table #402@1: 45177 keys, 2267911 bytes
-2022/11/06-20:23:08.459 2fb4 Generated table #403@1: 74931 keys, 2330942 bytes
-2022/11/06-20:23:08.508 2fb4 Generated table #404@1: 14774 keys, 2189266 bytes
-2022/11/06-20:23:08.570 2fb4 Generated table #405@1: 47852 keys, 1513288 bytes
-2022/11/06-20:23:08.570 2fb4 Compacted 1@1 + 7@2 files => 15089039 bytes
-2022/11/06-20:23:08.570 2fb4 compacted to: files[ 0 0 7 0 0 0 0 ]
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #390
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #391
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #392
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #393
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #394
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #395
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #396
-2022/11/06-20:23:08.571 2fb4 Delete type=2 #398
-2022/11/06-22:22:30.830 3da4 Level-0 table #407: started
-2022/11/06-22:22:30.859 3da4 Level-0 table #407: 1199139 bytes OK
-2022/11/06-22:22:30.861 3da4 Delete type=0 #397
+2022/11/28-11:53:09.358 948 Reusing MANIFEST C:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/28-11:53:09.358 948 Recovering log #263
+2022/11/28-11:53:09.423 948 Reusing old log C:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000263.log 
+2022/11/28-11:53:09.424 948 Delete type=2 #258
+2022/11/28-11:53:09.424 948 Delete type=2 #259
+2022/11/28-11:53:09.424 948 Delete type=2 #260
+2022/11/28-11:53:09.424 948 Delete type=2 #261

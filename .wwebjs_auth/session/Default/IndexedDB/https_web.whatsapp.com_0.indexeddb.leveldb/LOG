@@ -1,3 +1,14 @@
-2022/11/28-12:59:53.142 29cc Reusing MANIFEST c:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/28-12:59:53.143 29cc Recovering log #270
-2022/11/28-12:59:53.204 29cc Reusing old log c:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000270.log 
+2022/11/28-13:15:24.012 1c88 Reusing MANIFEST C:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/28-13:15:24.012 1c88 Recovering log #270
+2022/11/28-13:15:24.178 1c88 Reusing old log C:\Users\BUDDHI\Desktop\wwjs-express\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000270.log 
+2022/11/28-13:15:35.711 2db0 Level-0 table #279: started
+2022/11/28-13:15:36.105 2db0 Level-0 table #279: 1153722 bytes OK
+2022/11/28-13:15:36.227 2db0 Delete type=0 #270
+2022/11/28-13:15:37.427 44f0 Compacting 1@1 + 5@2 files
+2022/11/28-13:15:38.261 44f0 Generated table #280@1: 28253 keys, 2282560 bytes
+2022/11/28-13:15:38.921 44f0 Generated table #281@1: 42003 keys, 2270223 bytes
+2022/11/28-13:15:39.225 44f0 Generated table #282@1: 48571 keys, 2220316 bytes
+2022/11/28-13:15:39.327 44f0 Generated table #283@1: 36619 keys, 2222339 bytes
+2022/11/28-13:15:39.353 44f0 Generated table #284@1: 17178 keys, 367341 bytes
+2022/11/28-13:15:39.353 44f0 Compacted 1@1 + 5@2 files => 9362779 bytes
+2022/11/28-13:15:39.354 44f0 compacted to: files[ 0 0 5 0 0 0 0 ]

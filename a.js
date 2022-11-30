@@ -11,7 +11,7 @@ let chats = [
     },
     {
         name: 'harshi menike',
-        id: '120363046364514730@g.us',
+        id: '120363046364514730@g.us'
         inviteLink: 'https://chat.whatsapp.com/BAuoS5oYxsr4f3jqK42OQU',
         particpantCount: 2,
         createdAt: 'Mon Nov 28 2022',
